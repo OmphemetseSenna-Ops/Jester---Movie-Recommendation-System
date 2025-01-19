@@ -22,11 +22,12 @@ To run this project, you need the following libraries:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Movie-Recommendation-System-Data-Mining.git
+   git clone https://github.com/OmphemetseSenna-Ops/Jester---Movie-Recommendation-System
 2. Navigate to the project directory:
    ````
    pip install -r requirements.txt
 3. Run the main script:
+   ````
    python main.py
 
 ## Methodology
