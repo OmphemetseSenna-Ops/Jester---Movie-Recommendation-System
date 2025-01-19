@@ -12,6 +12,7 @@ This project aims to develop a movie recommendation system using data mining tec
 ## Requirements
 To run this project, you need the following libraries:
 - Python 3.x
+- Jupyter Notebook
 - Pandas
 - NumPy
 - Matplotlib
@@ -28,7 +29,7 @@ To run this project, you need the following libraries:
    pip install -r requirements.txt
 3. Run the main script:
    ````
-   python main.py
+   python main.ipynb
 
 ## Methodology
 The following methods are employed in this project:
