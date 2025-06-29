@@ -1,7 +1,7 @@
-# Jester---Movie-Recommendation-System (Data Mining)
+# Jester---Joke-Recommendation-System (Data Mining)
 
 ## Introduction
-This project aims to develop a movie recommendation system using data mining techniques, focusing on association rule mining and collaborative filtering. The dataset used is the Jester dataset, containing user ratings for jokes.
+This project aims to develop a Joke recommendation system using data mining techniques, focusing on association rule mining and collaborative filtering. The dataset used is the Jester dataset, containing user ratings for jokes.
 
 ## Features
 - **Data Preprocessing**: Handling missing values, data normalization, and feature scaling.
@@ -23,7 +23,7 @@ To run this project, you need the following libraries:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/OmphemetseSenna-Ops/Jester---Movie-Recommendation-System
+   git clone https://github.com/OmphemetseSenna-Ops/Jester---Joke-Recommendation-System
 2. Navigate to the project directory:
    ````
    pip install -r requirements.txt
@@ -50,7 +50,7 @@ The project provides:
   - Average joke rating vs. number of ratings.
 
 ## Conclusion
-This project showcases the effectiveness of data mining techniques in creating a movie recommendation system. The results indicate that both the Apriori and FP-Growth algorithms can successfully generate valuable recommendations.
+This project showcases the effectiveness of data mining techniques in creating a Joke recommendation system. The results indicate that both the Apriori and FP-Growth algorithms can successfully generate valuable recommendations.
 
 ## Future Work
 - Improve performance of the recommendation algorithms.
